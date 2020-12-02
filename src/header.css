@@ -1,0 +1,11 @@
+.header {
+    background-color: #191f26;
+    padding: 40px;
+  }
+  
+  .header > h1,
+  .header > p {
+    margin-left: 30%;
+    color: white;
+  }
+  
